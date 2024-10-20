@@ -1,0 +1,22 @@
+.SidebarOption{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.SidebarOption > .MuiSvgIcon-root{
+    padding : 20px;
+}
+
+.SidebarOption:hover{
+    border-radius: 30px;
+    
+    background-color: grey;
+
+}
+
+.SidebarOption > .text {
+    font-weight: 800;
+    font-size: 20px;
+    margin-right: 20px;
+}

@@ -1,0 +1,33 @@
+.sidebar{
+    padding-left:100px;
+    padding-right: 60px;
+    border-right : 1px solid grey;
+    background-color: black;
+    
+}
+
+#icon{
+    font-size: 50px !important;
+    margin-left: 10x;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    background-color: grey;
+    cursor: pointer;
+}
+#button{
+   background-color: blue;
+   height : 50px;
+   margin-top:20px;
+
+    /* existing styles */
+    border: 2px solid black !important;
+    color: rgb(34, 186, 213);
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    border-radius: 30px !important;
+    
+
+   
+
+   
+}
